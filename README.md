@@ -1,5 +1,10 @@
-## Hi, I'm Eric Madsen 👋
+# Hi, I'm Eric Madsen 👋
 
+## Proficiencies
+- HTML / CSS
+- Microsoft Office Suite
+- Windows Environment
+  
 <!--
 **ericmadsenIT/ericmadsenIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
